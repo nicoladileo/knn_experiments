@@ -18,3 +18,4 @@ In order to run code type **python knn_main.py** on terminal.
 
 Dataset | Sample | Accuracy | Accuracy with normalization |
 -----------------------------------------------------------
+   1 | 2 | 3 | 5
