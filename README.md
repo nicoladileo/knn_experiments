@@ -12,10 +12,12 @@ The code is written in Python using the library **sklearn** and the four used da
 * Seeds dataset [link](https://archive.ics.uci.edu/ml/datasets/seeds)
 * Magic gamma telescope [link](https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
 
-In order to run code type **python knn_main.py** on terminal.
+In order to run code type **python knn_main.py** on terminal: the KNN is computed for K equal to 1,3,5,10.
 
 ## Results ##
 
-Dataset | Sample | Accuracy | Accuracy with normalization |
------------------------------------------------------------
-   1 | 2 | 3 | 5
+* Accuracy for 1NN: 0.9533 - Accuracy for 1NN with normalization step: 0.9467
+* Accuracy for 3NN: 0.9600 - Accuracy for 3NN with normalization step: 0.9400
+* Accuracy for 5NN: 0.9600 - Accuracy for 5NN with normalization step: 0.9667
+* Accuracy for 10NN: 0.9600 - Accuracy for 10NN with normalization step: 0.9533
+==================================================
