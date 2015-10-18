@@ -15,6 +15,6 @@ The code is written in Python using the library **sklearn** and the four used da
 In order to run code type **python knn_main.py** on terminal.
 
 ## Results ##
-==================================================
-Dataset | Sample | Mean Accuracy | Mean Accuracy with normalization |
----------------------------------------------------------------------
+
+Dataset | Sample | Accuracy | Accuracy with normalization |
+-----------------------------------------------------------
