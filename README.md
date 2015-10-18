@@ -7,3 +7,8 @@ In pattern recognition and machine learning, the k-Nearest Neighbors algorithm (
 ## Experiment ##
 I started this work to compare the accuracy of the classification made by the KNN algorithm, in presence and absence of data normalization. For accuracy of the algorithm, we mean the percentage of instances correctly classified.
 The code is written in Python using the library **sklearn**
+To run code have been downloaded 4 datasets from the popular repository UCI.
+* Iris dataset [link] (https://archive.ics.uci.edu/ml/datasets/Iris)
+* EEG Eye State [link](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State)
+* Seeds dataset [link](https://archive.ics.uci.edu/ml/datasets/seeds)
+* Magic gamma telescope [link](https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
