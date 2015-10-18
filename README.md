@@ -12,5 +12,5 @@ The code is written in Python using the library **sklearn** and the four used da
 * Seeds dataset [link](https://archive.ics.uci.edu/ml/datasets/seeds)
 * Magic gamma telescope [link](https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
 
-In order to run code type *python knn_main.py* on terminal.
+In order to run code type **python knn_main.py** on terminal.
 
