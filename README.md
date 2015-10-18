@@ -33,7 +33,7 @@ Seeds dataset: 210 samples
 * Accuracy for 5NN: 0.8762 - Accuracy for 5NN with normalization step: 0.9238
 * Accuracy for 10NN: 0.9048 - Accuracy for 10NN with normalization step: 0.9190
 
-Magic telescope dataset: 19020 sample
+Magic telescope dataset: 19020 samples
 * Accuracy for 1NN: 0.7800 - Accuracy for 1NN with normalization step: 0.8162
 * Accuracy for 3NN: 0.7987 - Accuracy for 3NN with normalization step: 0.8351
 * Accuracy for 5NN: 0.8062 - Accuracy for 5NN with normalization step: 0.8373
