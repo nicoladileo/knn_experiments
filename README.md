@@ -39,5 +39,5 @@ Magic telescope dataset: 19020 sample
 * Accuracy for 5NN: 0.8062 - Accuracy for 5NN with normalization step: 0.8373
 * Accuracy for 10NN: 0.8065 - Accuracy for 10NN with normalization step: 0.8354
 
-
+As you can see the algorithm with normalization better performs on dataset with different scale for attribute (Seeds and Magic dataset); on the other hand, if the normalization is computed on dataset with same scale for attribute (Iris and EEG dataset), the performance are worst. 
 
